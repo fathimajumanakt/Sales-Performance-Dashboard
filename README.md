@@ -11,7 +11,6 @@ The project aims to make sales data easier to understand and help monitor busine
 - Microsoft Power BI
 - Power Query
 - DAX
-- Microsoft PowerPoint
 
 ##  Key Analysis Areas
 
