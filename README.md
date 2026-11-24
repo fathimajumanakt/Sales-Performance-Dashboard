@@ -1,18 +1,18 @@
-# 📊 Sales Performance Dashboard | Power BI
+#  Sales Performance Dashboard | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 The Sales Performance Dashboard is a Power BI project designed to analyze and visualize business sales data. It provides insights into sales performance across different salespersons, departments, and products through interactive dashboards and visualizations.
 
 The project aims to make sales data easier to understand and help monitor business performance through data-driven insights.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX
 
-## 📈 Key Analysis Areas
+## Key Analysis Areas
 
 ### 1. Salesperson-wise Analysis
 - Analyze individual salesperson performance.
@@ -29,7 +29,7 @@ The project aims to make sales data easier to understand and help monitor busine
 - Compare product sales and contributions.
 - Identify top-selling products.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Monitor overall sales performance.
 - Compare performance across salespersons and departments.
@@ -37,5 +37,9 @@ The project aims to make sales data easier to understand and help monitor busine
 - Identify key business insights.
 - Support data-driven decision-making.
 
+## Author
+
+Fathima Jumana
+Data Analyst Trainee
 ---
 ⭐ If you find this project interesting, feel free to explore the repository!
