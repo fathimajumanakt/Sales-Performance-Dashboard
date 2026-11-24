@@ -1,4 +1,4 @@
-#  Sales Performance Dashboard | Power BI
+# 📊 Sales Performance Dashboard | Power BI
 
 ##  Project Overview
 
@@ -11,8 +11,9 @@ The project aims to make sales data easier to understand and help monitor busine
 - Microsoft Power BI
 - Power Query
 - DAX
+- Microsoft PowerPoint
 
-## Key Analysis Areas
+##  Key Analysis Areas
 
 ### 1. Salesperson-wise Analysis
 - Analyze individual salesperson performance.
@@ -37,9 +38,11 @@ The project aims to make sales data easier to understand and help monitor busine
 - Identify key business insights.
 - Support data-driven decision-making.
 
-## Author
+## 👩‍💻 Author
 
-Fathima Jumana
-Data Analyst Trainee
+**Fathima Jumana**  
+Data Analyst Trainee 
+
 ---
+
 ⭐ If you find this project interesting, feel free to explore the repository!
